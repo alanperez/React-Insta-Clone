@@ -1,0 +1,28 @@
+.search-bar-header {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo .fab{
+    margin:0 10px;
+}
+
+.logo .pipe{
+    margin: 0 10px;
+}
+
+.search-input {
+    margin: 0 50px;
+}
+
+.icons .fas {
+    margin: 0 10px;
+}
